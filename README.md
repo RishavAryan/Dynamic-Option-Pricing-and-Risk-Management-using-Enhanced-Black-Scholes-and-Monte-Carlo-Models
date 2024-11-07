@@ -4,6 +4,9 @@ Robust framework for option pricing, dynamic hedging, and risk management using 
 ## Project Overview
 This project implements a robust framework for option pricing, dynamic hedging, and risk management using the Black-Scholes model and Monte Carlo simulations. It uses real-time market data from Yahoo Finance to improve pricing accuracy, implement delta-neutral hedging strategies, and calculate Value at Risk (VaR) for a portfolio.
 
+## Datasets
+ This project uses Yahoo Finance to fetch historical data for volatility and drift calculations.
+ 
 ## Goals
 - Accurate Option Pricing: Calculate fair prices for European call options using Black-Scholes and Monte Carlo methods.
 - Dynamic Hedging Simulation: Implement a delta-neutral hedging strategy to manage portfolio risk.
