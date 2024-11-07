@@ -1,5 +1,5 @@
 # Enhanced Black-Scholes and Monte Carlo Models for Dynamic Option Pricing and Risk
-robust framework for option pricing, dynamic hedging, and risk management using the Black-Scholes model and Monte Carlo simulations.
+Robust framework for option pricing, dynamic hedging, and risk management using the Black-Scholes model and Monte Carlo simulations.
 
 ## Project Overview
 This project implements a robust framework for option pricing, dynamic hedging, and risk management using the Black-Scholes model and Monte Carlo simulations. It uses real-time market data from Yahoo Finance to improve pricing accuracy, implement delta-neutral hedging strategies, and calculate Value at Risk (VaR) for a portfolio.
